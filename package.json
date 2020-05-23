@@ -1,0 +1,12 @@
+{
+  "name": "vscode-jest-snapshot-bug",
+  "version": "1.0.0",
+  "description": "A repository to recreate a vscode-jest issue with resolving custom snapshot locations",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
